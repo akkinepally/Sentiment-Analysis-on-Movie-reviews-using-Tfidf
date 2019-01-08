@@ -1,9 +1,9 @@
 # Sentiment-Analysis-on-Movie-reviews-using-Tfidf
 
 
-Libraries 
+*Libraries* 
 ---
-#######from sklearn.datasets import load_files  
+'from sklearn.datasets import load_files' 
 
 
 
