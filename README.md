@@ -3,7 +3,7 @@
 
 *Libraries* 
 ---
-'from sklearn.datasets import load_files' 
+`from sklearn.datasets import load_files`
 
 
 
